@@ -6,8 +6,19 @@ body {
     padding: 0;
 }
 
-header {
-    padding: 20px;
+a {
+    color: #FF5C5C;
+    text-decoration: none;
+}
+
+main {
+    padding-left: 20px;
+}
+
+.avatar {
+    height: 180px;
+    width: 180px;
+    border-radius: 50%;
 }
 
 ul {
@@ -21,15 +32,6 @@ li {
     margin-right: 20px;
 }
 
-section {
-    padding: 10px 20px;
-}
-
 footer {
-    padding: 10px 20px;
-}
-
-.icon-twitter {
-    -webkit-mask-image: url(/media/twitter.svg);
-    mask-image: url(//media/twitter.svg);
+    padding-left: 20px;
 }
