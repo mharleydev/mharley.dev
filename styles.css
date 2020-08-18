@@ -11,6 +11,10 @@ a {
     text-decoration: none;
 }
 
+header {
+    padding: 20px 20px 0px 20px; 
+}
+
 main {
     padding-left: 20px;
 }
