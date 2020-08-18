@@ -1,0 +1,36 @@
+body {
+    background: #23282F;
+    color: white;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    padding: 20px;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+section {
+    padding: 10px 20px;
+}
+
+footer {
+    background: black;
+    padding: 10px 20px;
+}
+
+.icon-twitter {
+    -webkit-mask-image: url(/media/twitter.svg);
+    mask-image: url(//media/twitter.svg);
+}
