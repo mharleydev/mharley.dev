@@ -1,41 +1,66 @@
 body {
-    background: #23282F;
     color: white;
-    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-}
-
-a {
-    color: #FF5C5C;
-    text-decoration: none;
-}
-
-header {
-    padding: 20px 20px 0px 20px; 
-}
-
-main {
-    padding-left: 20px;
-}
-
-.avatar {
-    height: 180px;
-    width: 180px;
+    background-color: #23282F;
+    font-family: "Roboto Mono", monospace;
+  }
+  
+  .container {
+    margin: 50px auto;
+    padding: 5px;
+    max-width: 650px;
+  }
+  
+  .header-section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+  
+  
+  }
+  
+  .header-frame {
+    max-width: 350px;
+  }
+  
+  .image-frame {
+    position: relative;
+    width: 300px;
+    height: 300px;
+    margin: 0 0 10px 0;
     border-radius: 50%;
-}
+    overflow: hidden;
+  
+  }
+  
+  .image-frame img {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: 100%;
+  }
+  
+  .bio {
+    display: block;
+  }
+  
+  h1 {
+    color: #FF5C5C;
+  }
 
-ul {
-    margin: 0;
-    padding: 0;
-    list-style-type: none;
-}
+  h2 {
+    color: lightgray;
+  }
+  
+  a {
+    color: #FF5C5C;
+  }
+  
+  .links {
+    margin: 25px 0;
+  }
 
-li {
-    display: inline-block;
-    margin-right: 20px;
-}
-
-footer {
-    padding-left: 20px;
+  .links a:not(:last-child) {
+    padding: 0 16px 0 0;
 }
