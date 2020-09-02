@@ -2,47 +2,62 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Michael Harley</title>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap" rel="stylesheet"> 
+    <link rel="stylesheet" href="/styles.css">
     <meta property="og:title" content="Michael Harley, Aspiring Web Developer" />
     <meta property="og:description" content="Michael is a web developer in Nashville, TN" />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://mharley.dev" />
     <meta property="og:image" content="https://mharley.dev/images/Michael-Harley-Avatar.jpeg" />
-    <meta name="description" content="Michael is a web developer in Nashville, TN">
-    <link rel="stylesheet" href="/styles.css">
-    <link rel="apple-touch-icon" sizes="180x180" href="/media/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/media/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/media/favicon-16x16.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
     <link rel="manifest" href="/site.webmanifest">
-    <title>Michael Harley</title>
 </head>
 <body>
-    <div class="container">
-        <div class="header-section">
-            <div class="header-frame">
-                 <h1><a href="./">Michael Harley</a></h1>
-                 <h2>Aspiring Web Developer in Nashville</h2>
-            </div>
-            <div class="image-frame">
-             <a href="./"><img src="/images/Michael-Harley-Avatar.jpeg" alt=""></a>
-            </div>
+    <header>
+        <div class="container">
+            <section class="header-section">
+                <div class="logo"><a href="/">M.</a> </div>
+                <nav>
+                    <a class= "nav-link" href="#">Home</a>
+                    <a class= "nav-link" href="#">Resume</a>
+                    <a class= "nav-link" href="#">Posts</a>
+                </nav>
+            </section>
+            
         </div>
-        <div class="links">
-            <a href="https://twitter.com/mharleydev" target="_blank" rel="noopener noreferrer">twitter</a>
-            <a href="https://www.linkedin.com/in/mharleydev/" target="_blank" rel="noopener noreferrer">linkedin</a>
-            <a href="https://github.com/mharleydev" target="_blank" rel="noopener noreferrer">github</a>
-            <a href="mailto:michael@mharley.dev?subject=Email from the site" rel="noopener noreferrer">email</a>
-            <a href="#" target="_blank" rel="noopener noreferrer">resume</a>
+    </header>
+    <main>
+        <div class="container">
+            <section class="hero">
+                <section class="heading">
+                    <h1>Michael Harley</h1>
+                    <h2>Aspiring Web Developer in Nashville</h2>
+                </section>
+                <img src="/images/Michael-Harley-Avatar.jpeg" alt="Photo of Michael" class="avatar">
+            </section>
+            
+            <section class="bio">
+                <p>Hey everyone. 👋🏻</p> 
+                <p>My name is Michael and I'm building this website with my bare hands. My day job is working as a SharePoint 
+                    Developer/Engineer/Wizard at <a href="https://www.bridgestoneamericas.com" rel="noopener noreferrer">Bridgestone Americas</a>. I use 
+                    PowerShell, SharePoint (2013/2016/Online), Office 365, Power Automate and Power Apps to solve problems.</p> 
+                    <p>I'm an aspiring web developer so I'm teaching myself the skills. I will be writing about my experiences on 
+                    my <a href="/posts/" rel="noopener noreferrer">blog</a>.
+                </p>
+            </section>
         </div>
-        <div class="bio">
-         <p>Hey everyone. 👋🏻</p> 
-         <p>My name is Michael and I'm building this website with my bare hands. My day job is working as a SharePoint 
-             Developer at <a href="https://www.bridgestoneamericas.com" target="_blank" rel="noopener noreferrer">Bridgestone Americas</a>, working 
-             with PowerShell, SharePoint (2013/2016/Online), Office 365, Power Automate and Power Apps, among others.</p> 
-             <p>I'm an aspiring web developer so I'm teaching myself the skills. I will be writing about my experiences on 
-             my <a href="/posts/" rel="noopener noreferrer">blog</a>.
-         </p>
-        </div>
-    </div>
- </body>
+    </main>
+    <footer>
+        <section class="container">
+            <section class="disclaimer">
+                <p>Copyright © 2020 Michael Harley | This site does not use cookies</p>
+            </section>
+            
+        </section>
+    </footer>
+</body>
 </html>
