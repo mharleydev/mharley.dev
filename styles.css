@@ -118,3 +118,20 @@ nav {
     color: #7a7a8c;
     font-size: 12px;
 }
+
+.posts-title {
+    padding-top: 30px;
+}
+
+.social-bar {
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.social-icons {
+    height: 32px;
+    width: 32px;
+    margin: 15px;
+}
