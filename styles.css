@@ -163,8 +163,13 @@ nav {
     font-style: italic;
   }
 
-  .post-content {
+  .post {
       background-color: white;
       color: black;
       padding: 20px; 
+      border-radius: 20px;
+  }
+
+  .post-date {
+      font-style: italic;
   }
