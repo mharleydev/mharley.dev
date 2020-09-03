@@ -179,3 +179,8 @@ nav {
   .post-date {
       font-style: italic;
   }
+
+  .post a {
+    text-decoration-style: dotted;
+    color: blue;
+  }
