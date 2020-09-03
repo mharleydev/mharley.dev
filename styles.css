@@ -135,6 +135,26 @@ nav {
 .post-header-image {
     height: auto;
     width: 100%;
-  /* even more control with max-width */
     max-width: 800px;
+    padding-top: 15px;
+  }
+
+  .post-summary {
+    background-color: #17141d;
+    min-width: 300px;
+    padding: 1.5rem;
+    background: #17141d;
+    box-shadow: -1rem 0 3rem #000;
+    transition: .2s;
+    border-radius: 16px;
+    margin-top: 20px;
+  }
+
+  .post-summary:hover {
+    box-shadow: 0 8px 16px 0 #a2dffb;
+  }
+
+  .post-index-date {
+    color: #7a7a8c;
+    font-style: italic;
   }
