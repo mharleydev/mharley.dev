@@ -153,6 +153,11 @@ nav {
     margin: 20px 10px 20px 10px;
   }
 
+  .post-summary:hover {
+    top: -2px;
+    box-shadow: 0 4px 5px rgba(0,0,0,0.2);
+  }
+
   .post-index-date {
     color: #7a7a8c;
     font-style: italic;
