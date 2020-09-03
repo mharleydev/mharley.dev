@@ -132,38 +132,9 @@ nav {
     margin: 15px;
 }
 
-.post-info-heading {
-    font-size: 2.0em; 
-    font-weight: 300;
-}
-
-.post-info-heading a {
-    text-decoration: none;
-}
-
-.post-date {
-    margin: 0;
-    color: #7a7a8c;
-    font-size: .9em;
-    padding-bottom: 30px;
-}
-
-.post-title {
-    padding: 30px 0 0 0; 
-    margin: 0;
-}
-
-.post-content {
-    background-color: white;
-    color: black;
-    padding: 5px;
-    border-radius: 8px;
-}
-
-.post-content p:first-of-type {
-    margin-top: 3px; 
-}
-
-.page-heading {
-    padding-top: 30px;
-}
+.post-header-image {
+    height: auto;
+    width: 100%;
+  /* even more control with max-width */
+    max-width: 800px;
+  }
