@@ -130,6 +130,11 @@ nav {
     height: 32px;
     width: 32px;
     margin: 15px;
+    transition: all .1s ease-in-out;
+}
+
+.social-icons:hover {
+    transform: scale(1.2);
 }
 
 .post-info {
