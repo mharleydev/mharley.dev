@@ -144,7 +144,6 @@ nav {
   }
 
   .post-summary {
-    background-color: #17141d;
     width: 300px;
     padding: 1.5rem;
     background: #17141d;
@@ -152,10 +151,6 @@ nav {
     transition: .2s;
     border-radius: 16px;
     margin: 20px 10px 20px 10px;
-  }
-
-  .post-summary:hover {
-    box-shadow: 0 2px 4px 0 #a2dffb;
   }
 
   .post-index-date {
