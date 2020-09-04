@@ -211,6 +211,7 @@ nav {
 .resume-contact-info {
     display: flex;
     justify-content: center;
+    flex-wrap: wrap;
 }
 
 .resume-contact-info section {
@@ -233,4 +234,8 @@ nav {
 
 .resume-education-date {
     font-weight: bold;
+}
+
+.resume-contact-container {
+    display: flex;
 }
