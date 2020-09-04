@@ -193,8 +193,9 @@ nav {
 .resume-content {
     background-color: white;
     color: black;
-    padding: 20px; 
+    padding: 7px; 
     border-radius: 6px;
+    font-size: 15px;
 }
 
 .resume-content h1 {
@@ -204,7 +205,7 @@ nav {
 .resume-body h2 {
     text-transform: uppercase;
     color: #1B95E0;
-    font-size: 18px;
+    font-size: 17px;
 }
 
 .resume-contact-info {
@@ -214,7 +215,7 @@ nav {
 
 .resume-contact-info section {
     padding: 0 10px 0 10px;  
-    font-size: 90%;
+    font-size: 95%;
     height: 20px;
     overflow: hidden;
 }
@@ -224,6 +225,12 @@ nav {
     border-width: thin;
 }
 
-.resume-job-heading {
+.resume-job-heading,
+.resume-education-title,
+.resume-education-date {
+    font-weight: bold;
+}
+
+.resume-education-date {
     font-weight: bold;
 }
