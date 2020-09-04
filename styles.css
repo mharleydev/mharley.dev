@@ -173,7 +173,7 @@ nav {
       background-color: white;
       color: black;
       padding: 20px; 
-      border-radius: 8px;
+      border-radius: 6px;
   }
 
   .post-date {
@@ -184,3 +184,46 @@ nav {
     text-decoration-style: dotted;
     color: blue;
   }
+
+  .resume-container {
+      display: flex;
+      justify-content: space-between;
+  }
+
+.resume-content {
+    background-color: white;
+    color: black;
+    padding: 20px; 
+    border-radius: 6px;
+}
+
+.resume-content h1 {
+    text-align: center;
+}
+
+.resume-body h2 {
+    text-transform: uppercase;
+    color: #1B95E0;
+    font-size: 18px;
+}
+
+.resume-contact-info {
+    display: flex;
+    justify-content: center;
+}
+
+.resume-contact-info section {
+    padding: 0 10px 0 10px;  
+    font-size: 90%;
+    height: 20px;
+    overflow: hidden;
+}
+
+.resume-contact-info section:not(:last-child) {
+    border-right: solid;
+    border-width: thin;
+}
+
+.resume-job-heading {
+    font-weight: bold;
+}
