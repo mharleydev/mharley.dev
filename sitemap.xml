@@ -31,4 +31,16 @@
             <changefreq>monthly</changefreq>
         </url>
     
+        <url>
+            <loc>https://mharley.dev/tags/test/</loc>
+            <lastmod>2020-09-05T16:34:21.108Z</lastmod>
+            <changefreq></changefreq>
+        </url>
+    
+        <url>
+            <loc>https://mharley.dev/tags/</loc>
+            <lastmod>2020-09-05T16:49:47.363Z</lastmod>
+            <changefreq></changefreq>
+        </url>
+    
 </urlset>
