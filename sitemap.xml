@@ -2,45 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
         <url>
-            <loc>https://mharley.dev/posts/hello-world/</loc>
+            <loc>https://mharley.dev/thoughts/hello-world/</loc>
             <lastmod>2020-08-24T00:00:00.000Z</lastmod>
             <changefreq>monthly</changefreq>
         </url>
     
         <url>
-            <loc>https://mharley.dev/posts/</loc>
-            <lastmod>2020-08-27T19:47:34.519Z</lastmod>
-            <changefreq>daily</changefreq>
-        </url>
-    
-        <url>
-            <loc>https://mharley.dev/posts/im-learning-web-development/</loc>
+            <loc>https://mharley.dev/thoughts/im-learning-web-development/</loc>
             <lastmod>2020-09-02T00:00:00.000Z</lastmod>
             <changefreq>monthly</changefreq>
         </url>
     
         <url>
-            <loc>https://mharley.dev/resume/</loc>
-            <lastmod>2020-09-02T19:09:20.090Z</lastmod>
-            <changefreq>monthly</changefreq>
-        </url>
-    
-        <url>
             <loc>https://mharley.dev/</loc>
-            <lastmod>2020-09-02T20:37:40.151Z</lastmod>
+            <lastmod>2020-09-05T18:27:33.718Z</lastmod>
             <changefreq>monthly</changefreq>
         </url>
     
         <url>
-            <loc>https://mharley.dev/tags/test/</loc>
-            <lastmod>2020-09-05T16:34:21.108Z</lastmod>
-            <changefreq></changefreq>
+            <loc>https://mharley.dev/resume/</loc>
+            <lastmod>2020-09-05T18:27:33.738Z</lastmod>
+            <changefreq>monthly</changefreq>
         </url>
     
         <url>
             <loc>https://mharley.dev/tags/</loc>
-            <lastmod>2020-09-05T16:49:47.363Z</lastmod>
+            <lastmod>2020-09-05T18:27:33.742Z</lastmod>
             <changefreq></changefreq>
+        </url>
+    
+        <url>
+            <loc>https://mharley.dev/tags/test/</loc>
+            <lastmod>2020-09-05T18:27:33.742Z</lastmod>
+            <changefreq></changefreq>
+        </url>
+    
+        <url>
+            <loc>https://mharley.dev/thoughts/</loc>
+            <lastmod>2020-09-05T23:58:15.682Z</lastmod>
+            <changefreq>daily</changefreq>
         </url>
     
 </urlset>
