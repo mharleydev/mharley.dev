@@ -253,9 +253,25 @@ nav {
 }
 
 .post-tag {
-    background: darkgray;
-    box-shadow: -1rem 0 3rem #000;
-    transition: .2s;
-    padding: 5px;
-    border-radius: 40%;
+    display: inline-block;
+    margin: 8px 6px 0 0;
+    padding: 4px 8px;
+    color: #555;
+    background-color: #eee;
+    font-size: 90%;
+}
+
+.post-tag a {
+    text-decoration: none;
+    color: black;
+}
+
+.post-tag a:focus,
+.post-tag a:hover {
+    color: red;
+}
+
+.post-navigation {
+    display: flex;
+    justify-content: space-between;
 }
