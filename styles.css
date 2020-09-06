@@ -275,6 +275,7 @@ nav {
 .posts-bottom-nav {
     display: flex;
     justify-content: space-between;
+    padding-top: 15px;
 }
 
 .posts-previous-post {
