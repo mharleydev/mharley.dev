@@ -4,7 +4,7 @@
   <subtitle></subtitle>
   <link href="" rel="self"/>
   <link href="https://mharley.dev"/>
-  <updated>2020-09-04T19:00:00-05:00</updated>
+  <updated>2020-09-01T19:00:00-05:00</updated>
   <id>https://mharley.dev</id>
   <author>
     <name>Michael Harley</name>
@@ -33,15 +33,6 @@
 &lt;p&gt;I learn by doing so getting stuff to show up on the page is super rewarding. I usually learn best when I just hack around and google to figure things out. Then I like to go back and read about the things I’m just copying and pasting and reading closer on the topics I don’t fully understand by experimenting. Because of that, I expect this site to go through many iterations as I’m learning new things.&lt;/p&gt;
 &lt;p&gt;I’m currently on the HTML/CSS phase as I really want to make sure I’m really and truly understanding the concepts at this phase. Semantic HTML, Accessible HTML and CSS Flexbox, site design and color theory as it relates to site design, Figma. I want to be able to design and build a site and make it look nice without having to just steal other people’s designs.&lt;/p&gt;
 &lt;p&gt;Wish me luck. 😎&lt;/p&gt;
-</content>
-  </entry>
-  
-  <entry>
-    <title></title>
-    <link href="https://mharley.dev/thoughts/more-thoughts/"/>
-    <updated>2020-09-04T19:00:00-05:00</updated>
-    <id>https://mharley.dev/thoughts/more-thoughts/</id>
-    <content type="html">&lt;p&gt;Hello world. This is a paragraph of text.&lt;/p&gt;
 </content>
   </entry>
 </feed>

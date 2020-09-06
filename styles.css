@@ -271,7 +271,68 @@ nav {
     color: red;
 }
 
-.post-navigation {
+.posts-bottom-nav {
     display: flex;
     justify-content: space-between;
+}
+
+.posts-previous-post {
+    display: flex;
+    text-decoration: none;
+    color: inherit;
+    display: inline-flex;
+    flex-direction: row;
+    -moz-box-align: center;
+    align-items: center;
+    text-align: left;
+}
+
+.posts-next-post {
+    display: flex;
+    text-decoration: none;
+    color: inherit;
+    display: inline-flex;
+    flex-direction: row;
+    -moz-box-align: center;
+    align-items: center;
+    text-align: right;
+}
+
+.posts-previous-post-img {
+    margin-left: 0px;
+    margin-right: 4px;
+    display: inline-block;
+    height: 2em;
+    padding-right: 1em;
+    padding-top: 8px;
+}
+
+.posts-next-post-img {
+    margin-left: 4px;
+    margin-right: 0px;
+    display: inline-block;
+    height: 2em;
+    padding-left: 1em;
+    padding-top: 8px;
+}
+
+.posts-previous-post-text,
+.posts-next-post-text {
+    display: flex;
+    flex-direction: column;
+}
+
+.posts-previous-post-heading,
+.posts-next-post-heading {
+    margin: 0; 
+    font-size: 14px;
+    color: rgb(153, 153, 153);
+    
+}
+
+.posts-previous-post-title,
+.posts-next-post-title {
+    color: rgb(102, 102, 102);
+    font-size: 16px;
+    margin: 0;
 }
