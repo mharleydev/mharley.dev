@@ -87,6 +87,7 @@ h2 {
 
 a {
     color: #1B95E0; 
+    text-decoration: none;
 }
 
 a:hover,
@@ -335,4 +336,16 @@ nav {
     color: rgb(102, 102, 102);
     font-size: 16px;
     margin: 0;
+}
+
+.post-summary-tag {
+    color: #7a7a8c;
+}
+
+.post-description {
+    color: white;
+}
+
+.post-info-heading {
+    color: #1B95E0; 
 }
