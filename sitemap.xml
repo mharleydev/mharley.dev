@@ -28,19 +28,19 @@
         <url>
             <loc>https://mharley.dev/thoughts/topics/</loc>
             <lastmod>2020-09-05T18:27:33.742Z</lastmod>
-            <changefreq></changefreq>
-        </url>
-    
-        <url>
-            <loc>https://mharley.dev/thoughts/test/</loc>
-            <lastmod>2020-09-05T18:27:33.742Z</lastmod>
-            <changefreq></changefreq>
+            <changefreq>weekly</changefreq>
         </url>
     
         <url>
             <loc>https://mharley.dev/thoughts/webdev/</loc>
             <lastmod>2020-09-05T18:27:33.742Z</lastmod>
-            <changefreq></changefreq>
+            <changefreq>weekly</changefreq>
+        </url>
+    
+        <url>
+            <loc>https://mharley.dev/thoughts/test/</loc>
+            <lastmod>2020-09-05T18:27:33.742Z</lastmod>
+            <changefreq>weekly</changefreq>
         </url>
     
         <url>
