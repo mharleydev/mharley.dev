@@ -32,13 +32,19 @@
         </url>
     
         <url>
+            <loc>https://mharley.dev/thoughts/test/</loc>
+            <lastmod>2020-09-05T18:27:33.742Z</lastmod>
+            <changefreq>weekly</changefreq>
+        </url>
+    
+        <url>
             <loc>https://mharley.dev/thoughts/webdev/</loc>
             <lastmod>2020-09-05T18:27:33.742Z</lastmod>
             <changefreq>weekly</changefreq>
         </url>
     
         <url>
-            <loc>https://mharley.dev/thoughts/test/</loc>
+            <loc>https://mharley.dev/thoughts/career development/</loc>
             <lastmod>2020-09-05T18:27:33.742Z</lastmod>
             <changefreq>weekly</changefreq>
         </url>
@@ -47,6 +53,12 @@
             <loc>https://mharley.dev/thoughts/</loc>
             <lastmod>2020-09-05T23:58:15.682Z</lastmod>
             <changefreq>daily</changefreq>
+        </url>
+    
+        <url>
+            <loc>https://mharley.dev/thoughts/lessons-learned-from-bridgestone/</loc>
+            <lastmod>2020-09-07T00:00:00.000Z</lastmod>
+            <changefreq>monthly</changefreq>
         </url>
     
 </urlset>
