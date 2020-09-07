@@ -379,3 +379,11 @@ blockquote {
   blockquote p {
     display: inline;
   }
+
+  .post-header-image-credit {
+    color: #7a7a8c;
+  }
+
+  .post-header-image-credit a {
+      color: inherit;
+  }
