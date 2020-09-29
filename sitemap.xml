@@ -32,12 +32,6 @@
         </url>
     
         <url>
-            <loc>https://mharley.dev/thoughts/test/</loc>
-            <lastmod>2020-09-05T18:27:33.742Z</lastmod>
-            <changefreq>weekly</changefreq>
-        </url>
-    
-        <url>
             <loc>https://mharley.dev/thoughts/webdev/</loc>
             <lastmod>2020-09-05T18:27:33.742Z</lastmod>
             <changefreq>weekly</changefreq>
@@ -45,6 +39,12 @@
     
         <url>
             <loc>https://mharley.dev/thoughts/career development/</loc>
+            <lastmod>2020-09-05T18:27:33.742Z</lastmod>
+            <changefreq>weekly</changefreq>
+        </url>
+    
+        <url>
+            <loc>https://mharley.dev/thoughts/test/</loc>
             <lastmod>2020-09-05T18:27:33.742Z</lastmod>
             <changefreq>weekly</changefreq>
         </url>
